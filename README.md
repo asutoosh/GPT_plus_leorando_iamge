@@ -1,1 +1,1 @@
-# GPT_plus_leorando_iamge
+# GPT_plus_leorando_image
