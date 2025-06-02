@@ -1,5 +1,9 @@
 # YouTube Script & Image Generator
 
+
+Run the setup file first 
+python setup.py
+
 Automated system for generating long-form YouTube video scripts with AI-generated images.
 
 ## Setup Instructions
