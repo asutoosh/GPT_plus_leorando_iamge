@@ -31,11 +31,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # === CONFIGURATION ===
-OPENAI_API_KEY = "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"
-LEONARDO_API_KEY = "aee7a6c4-0832-42c8-b1b1-7d6824598e9d"
+OPENAI_API_KEY = ""   # paste GPT KEY
+LEONARDO_API_KEY = ""    #PASTE LEONARDO API KEY
 LEONARDO_API_URL = "https://cloud.leonardo.ai/api/rest/v1/generations"
 LEONARDO_MODEL_ID = "b2614463-296c-462a-9586-aafdb8f00e36"
-LEONARDO_USER_LORA_ID = 65553
+LEONARDO_USER_LORA_ID = 65553    #paste your trained leornado model id
 
 MODEL = "gpt-4o"
 TRIGGER = "--AUTO"
